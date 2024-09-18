@@ -1,4 +1,4 @@
-👋 Hello, I'm [KOnstantinos Ravanos]!
+👋 Hello, I'm [Kοnstantinos Ravanos]!
 I'm an IT System Administrator at Kappa Securities with a passion for technology, cybersecurity, and data analysis. Currently, I’m focusing on expanding my skills in financial market forecasting, combining machine learning and big data analytics.
 
 🔭 Current Activities:
